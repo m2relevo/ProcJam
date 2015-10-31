@@ -1,0 +1,13 @@
+Clothing '[Name] is wearing [Clothes]'
+
+Clothes:								Corresponding Attribute							Evidence
+Top Hat								Frank is wearing a Top Hat						A Spare Top Hat was found by the body
+Canopy of Leaves						Frank is wearing a leafy toupee						Leaves were found by the body
+Iron Mask							Frank's Iron Mask makes it hard to see					Nails from an Iron Mask were found near 																		the body
+Lego Baseball Cap						Frank is wearing a baseball cap made entirely of Lego			Lego bricks were found near the body
+Blue Polo Sweater						Frank is stylin' a blue polo sweater.					Blue thread was found near the body
+Mustard-Stained T-Shirt						Frank is wearing a disgusting, mustard-stained t-shirt			Mustard Stains were found on the body
+Tank-top							Frank is letting armpits loose in a tank-top				Armpit Hair was found on the body
+Chainmail Underpants						Frank is getting horrible chafing from Chainmail Underpants		Chainmail Links were found near the body
+Pajama Bottoms							Frank is snug as a bug in Pajama Bottoms				A Pajama Top was found near the body
+Bikini Bottom							Frank is ready for summer in a Bikini Outfit				A sandy Bikini Top was found near the 																					body

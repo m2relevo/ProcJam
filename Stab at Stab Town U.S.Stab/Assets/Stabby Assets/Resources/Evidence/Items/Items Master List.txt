@@ -1,0 +1,11 @@
+Items:									Corresponding Attribute							Evidence
+Pills								Frank has a bottle of pills						Pills were found on the body.
+Playing Cards							Frank is a known poker enthusiast					Playing Cards were found on the body.
+Ice Cream Sandwiches						Frank has sticky fingers						Ice Cream Sandwhich Wrappers were 																		found on the body
+Miniture Replicas of the Eiffel Tower made out of Macaroni	Frank once went to France as a toddler					%N were found on the body
+Rotting Pumpkins						Frank steals Halloween decorations					Rotting Pumpkins were found near the 																			body
+Bark								Frank hugs trees							Bark was found on the body
+A Signed Picture of Sherlock Holmes				Frank is super excited Surenot Holmes is here				%N was found near the body
+A Gameboy Colour						Frank has Pokemon Gold							%N was found near the body
+A Collection of Tiny Birds					Frank collects figurines of birds					Tiny bird figurines were found near the 																			body
+A Collection of Ginsu Knives					Frank works part time as a Chef						Ginsu Knives were found in the body

@@ -1,0 +1,11 @@
+Debris:									Corresponding Attribute							Evidence
+Glass Shards							Frank is hurt from shards of glass					A broken glass was found near the body
+Breadcrumbs							Frank's pockets have toast in them					Breadcrumbs were found near the body
+Paint								Frank is covered in paint						A bucket of paint was found near the 																			body
+Ashes								Frank possesses an empty box of cigars					Small piles of ashes were found near the 																			body
+Tea leaves							Frank is drinking from a massive mug of green tea			Wet tea leaves were found on the body
+Lighter Fluid							Frank's lighter recently went missing					The smell of lighter fluid lingers over 																			the body
+Moisturizer 							Frank has no problems with moisturization				Hand Moisturizer was found near the body
+Industrial Strength Disinfectant				Frank can't stop cleaning						The body was found scrubbed clean
+Discount booze							Frank recently paid for alcohol with pennies				Cheap-smelling booze was found on the 																			body
+Lipstick							Frank's lipstick is looking pretty smudged 					Lipstick was found on the body
