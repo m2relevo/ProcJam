@@ -7,6 +7,17 @@ public class LevelText : MonoBehaviour {
 	string Level;
 	Text lText;
 
+
+/*	struct Character
+	{
+		GameObject character;
+		Clue item1;
+		Clue item2;
+		Clue item3;
+		Clue item4;
+		Clue item5;
+	}*/
+
 	// Use this for initialization
 	void Start () 
 	{ 
