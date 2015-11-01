@@ -6,6 +6,7 @@ public class ClueHolder : MonoBehaviour
 	public struct Clue
 	{
 		public GameObject clue;
+		public string name; 
 		public bool used; 
 		public bool found;
 	};
@@ -32,6 +33,7 @@ public class ClueHolder : MonoBehaviour
 				ranUsed = false;*/
 
 			Clues[i].clue = objClues[i];
+			Clues[i].name = objClues[i].name;
 			Clues[i].used = ranUsed;
 			Clues[i].found = false;
 		}
