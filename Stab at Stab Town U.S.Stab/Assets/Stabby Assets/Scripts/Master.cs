@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Master : MonoBehaviour 
 {
-	int NightNo = 1;
+	public int NightNo = 1;
 	
 
 	// Use this for initialization
@@ -18,7 +18,7 @@ public class Master : MonoBehaviour
 	
 	}
 
-	void SetNight()
+	public void SetNight()
 	{
 		NightNo++;
 	}
