@@ -2,41 +2,43 @@ Items: '[Name] is in possession of [items]'
 EG: Frank has Pills
 
 Items:									Corresponding Attribute							Evidence
-Pills								Frank has a bottle of pills						Pills were found on the body.
-Playing Cards							Frank is a known poker enthusiast					Playing Cards were found on the body.
-Ice Cream Sandwiches						Frank has sticky fingers						Ice Cream Sandwhich Wrappers were 																		found on the body
-Miniture Replicas of the Eiffel Tower made out of Wafer		Frank once went to France as a toddler					%N were found on the body
-Rotting Pumpkins						Frank steals Halloween decorations					Rotting Pumpkins were found near the 																			body
-Bark								Frank hugs trees							Bark was found on the body
-A Signed Picture of Sherlock Holmes				Frank is super excited Surenot Holmes is here				%N was found near the body
-A Gameboy Colour						Frank has Pokemon Gold							%N was found near the body
-A Collection of Tiny Birds					Frank collects figurines of birds					Tiny bird figurines were found near the 																			body
-A Collection of Ginsu Knives					Frank works part time as a Chef						Ginsu Knives were found in the body
+1Pills								Frank has a bottle of pills						Pills were found on the body.
+2Playing Cards							Frank is a known poker enthusiast					Playing Cards were found on the body.
+3Ice Cream Sandwiches						Frank has sticky fingers						Ice Cream Sandwhich Wrappers were 																		found on the body
+4Miniture Replicas of the Eiffel Tower made out of Wafer		Frank once went to France as a toddler					%N were found on the body
+5Rotting Pumpkins						Frank steals Halloween decorations					Rotting Pumpkins were found near the 																			body
+6Bark								Frank hugs trees							Bark was found on the body
+7A Signed Picture of Sherlock Holmes				Frank is super excited Surenot Holmes is here				%N was found near the body
+8A Gameboy Colour						Frank has Pokemon Gold							%N was found near the body
+9A Collection of Tiny Birds					Frank collects figurines of birds					Tiny bird figurines were found near the 																			body
+10A Collection of Ginsu Knives					Frank works part time as a Chef						Ginsu Knives were found in the body
 
 Clothing '[Name] is wearing [Clothes]'
 
 Clothes:								Corresponding Attribute							Evidence
-Top Hat								Frank is wearing a Top Hat						A Spare Top Hat was found by the body
-Canopy of Leaves						Frank is wearing a leafy toupee						Leaves were found by the body
-Iron Mask							Frank's Iron Mask makes it hard to see					Nails from an Iron Mask were found near 																		the body
-Lego Baseball Cap						Frank is wearing a baseball cap made entirely of Lego			Lego bricks were found near the body
-Blue Polo Sweater						Frank is stylin' a blue polo sweater.					Blue thread was found near the body
-Mustard-Stained T-Shirt						Frank is wearing a disgusting, mustard-stained t-shirt			Mustard Stains were found on the body
-Tank-top							Frank is letting armpits loose in a tank-top				Armpit Hair was found on the body
-Chainmail Underpants						Frank is getting horrible chafing from Chainmail Underpants		Chainmail Links were found near the body
-Pajama Bottoms							Frank is snug as a bug in Pajama Bottoms				A Pajama Top was found near the body
-Bikini Bottom							Frank is ready for summer in a Bikini Outfit				A sandy Bikini Top was found near the 																					body
+11Top Hat								Frank is wearing a Top Hat						A Spare Top Hat was found by the body
+12Canopy of Leaves						Frank is wearing a leafy toupee						Leaves were found by the body
+13Iron Mask							Frank's Iron Mask makes it hard to see					Nails from an Iron Mask were found near 																		the body
+14Lego Baseball Cap						Frank is wearing a baseball cap made entirely of Lego			Lego bricks were found near the body
+15Blue Polo Sweater						Frank is stylin' a blue polo sweater.					Blue thread was found near the body
+16Mustard-Stained T-Shirt						Frank is wearing a disgusting, mustard-stained t-shirt			Mustard Stains were found on the body
+17Tank-top							Frank is letting armpits loose in a tank-top				Armpit Hair was found on the body
+18Chainmail Underpants						Frank is getting horrible chafing from Chainmail Underpants		Chainmail Links were found near the body
+19Pajama Bottoms							Frank is snug as a bug in Pajama Bottoms				A Pajama Top was found near the body
+20Bikini Bottom							Frank is ready for summer in a Bikini Outfit				A sandy Bikini Top was found near the 
+																					body
+
 Debris:									Corresponding Attribute							Evidence
-Glass Shards							Frank is hurt from shards of glass					A broken glass was found near the body
-Breadcrumbs							Frank's pockets have toast in them					Breadcrumbs were found near the body
-Paint								Frank is covered in paint						A bucket of paint was found near the 																			body
-Ashes								Frank possesses an empty box of cigars					Small piles of ashes were found near the 																			body
-Tea leaves							Frank is drinking from a massive mug of green tea			Wet tea leaves were found on the body
-Lighter Fluid							Frank's lighter recently went missing					The smell of lighter fluid lingers over 																			the body
-Moisturizer 							Frank has no problems with moisturization				Hand Moisturizer was found near the body
-Industrial Strength Disinfectant				Frank can't stop cleaning						The body was found scrubbed clean
-Discount booze							Frank recently paid for alcohol with pennies				Cheap-smelling booze was found on the 																			body
-Lipstick							Frank's lipstick is looking pretty smudged 					Lipstick was found on the body
+21Glass Shards							Frank is hurt from shards of glass					A broken glass was found near the body
+22Breadcrumbs							Frank's pockets have toast in them					Breadcrumbs were found near the body
+23Paint								Frank is covered in paint						A bucket of paint was found near the 																			body
+24Ashes								Frank possesses an empty box of cigars					Small piles of ashes were found near the 																			body
+25Tea leaves							Frank is drinking from a massive mug of green tea			Wet tea leaves were found on the body
+26Lighter Fluid							Frank's lighter recently went missing					The smell of lighter fluid lingers over 																			the body
+27Moisturizer 							Frank has no problems with moisturization				Hand Moisturizer was found near the body
+28Industrial Strength Disinfectant				Frank can't stop cleaning						The body was found scrubbed clean
+29Discount booze							Frank recently paid for alcohol with pennies				Cheap-smelling booze was found on the 																			body
+30Lipstick							Frank's lipstick is looking pretty smudged 					Lipstick was found on the body
 
 
 Miscellaneous Items:							Corresponding Attribute							Evidence
