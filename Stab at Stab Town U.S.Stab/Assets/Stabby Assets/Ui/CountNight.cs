@@ -22,7 +22,7 @@ public class CountNight : MonoBehaviour
 	void Update () 
 	{
 		NightNo = master.GetComponent<Master> ().GetNight ();
-		sText.text = ("Night No: " + NightNo);
+		sText.text = ("Day No: " + NightNo);
 	}
 
 
