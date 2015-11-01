@@ -9,11 +9,8 @@ public class CharacterHolder : MonoBehaviour
 		public string name;
 		public bool Used;
 		public bool Murderer;
-		public ClueHolder.Clue C1;
-		public ClueHolder.Clue C2;
-		public ClueHolder.Clue C3;
-		public ClueHolder.Clue C4;
-		public ClueHolder.Clue C5;
+		public ClueHolder.Clue[] C;
+
 
 	}
 
@@ -22,10 +19,15 @@ public class CharacterHolder : MonoBehaviour
 	bool ranUsed = false;
 	bool murder = false;
 	int count = 0;
+	int evidenceCount = 0;
+	ClueHolder.Clue[] MurderC;
+	ClueHolder.Clue[] AllClues;
 
 	// Use this for initialization
 	void Start () 
 	{
+		MurderC = GetComponent<ClueHolder> ().MurderClues ();
+		AllClues = GetComponent<ClueHolder> ().ListClue ();
 		objChar = GameObject.FindGameObjectsWithTag ("Character");
 		for (int i = 0; i<objChar.Length; i++) 
 		{
@@ -49,10 +51,25 @@ public class CharacterHolder : MonoBehaviour
 				if(prob2 < 20 && murder == false)// pick muderer
 				{
 					murder = true;
+					Characters[i].C[0] = MurderC[0];
+					Characters[i].C[1] = MurderC[1];
+					Characters[i].C[2] = MurderC[2];
+					Characters[i].C[3] = MurderC[3];
+					Characters[i].C[4] = MurderC[4];
 				}
 				else if(prob2 >= 20)
 				{
+					int evidenceProb = Random.Range (0,29);
 					murder = false;
+					Characters[i].C[0] = MurderC[0];
+					Characters[i].C[1] = MurderC[1];
+					Characters[i].C[2] = MurderC[2];
+					Characters[i].C[3] = MurderC[3];
+					Characters[i].C[4] = MurderC[4];
+
+
+					Characters[i].C[evidenceCount] =  AllClues[evidenceProb]; 
+						evidenceCount++;
 				}
 			}
 			Characters[i].Murderer = murder;
