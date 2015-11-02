@@ -15,7 +15,6 @@ public class ClueHolder : MonoBehaviour
 	{
 		public GameObject clue;
 		//public string name; 
-		public int id;
 		public bool used; 
 		public bool found;
 		public string attribute;
@@ -26,9 +25,8 @@ public class ClueHolder : MonoBehaviour
     GameObject[] objClues;
     Clue[] Clues;
 	ClueDialogue dialogue;
-	bool ranUsed = false;
-	bool isFound = false;
-	Clue[] MClues;
+	bool ranUsed;
+	bool isFound;
 
 	void setDialogue()
 	{
@@ -116,7 +114,6 @@ public class ClueHolder : MonoBehaviour
 			Clues[i].evidence = dialogue.Evidence[int.Parse(objClues[i].name)];
 			Clues[i].used = ranUsed;
 			Clues[i].found = false;
-			Clues[i].id = i;
 		}
 
 
@@ -129,29 +126,6 @@ public class ClueHolder : MonoBehaviour
 	void SetFound(int i)
 	{
 		Clues[i].found = true;
-	}
-
-
-
-
-
-	public Clue[] MurderClues()
-	{
-		int Mcount = 0;
-		for (int Q = 0; Q < Clues.Length; Q++) 
-		{
-			if(Clues[Q].used == true)
-			{
-				MClues[Mcount] =  Clues[Q];
-				Mcount++;
-			}
-		}
-		return MClues;
-	}
-
-	public Clue[] ListClue()
-	{
-		return Clues;
 	}
 
 
