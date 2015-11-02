@@ -23,4 +23,26 @@ Detain: Is this because I'm dressed like a Bee?
 Accuse: This is definitely because I'm a bee, isn't it? You prejudicial ass. 
 Confirmed: FINE. I killed them! No one understands! I was only doing it to protect the queen! I'll make you understand, damn you! All of you!
 
-Character 6: 
+
+
+
+Detain statements
+1. I'll come quietly. I've got nothing to hide!
+2. Are you kidding? Why would you detain me?
+3. You've got the wrong guy!
+4. Don't blame me when someone dies tonight.
+5. You're meant to be a good detective.
+
+Accuse statements
+1. You can't seriously think it was me.
+2. Please don't arrest me!
+3. No! You've got the wrong guy!
+4. Go away, you idiot!
+5. I'm not the killer!
+
+Confirmed statements
+1. Damn it all. I'll be back!
+2. You haven't seen the last of me!
+3. Ready for round 2? HAHAHAHAHAHAHAHAHAHAHAHAHA
+4. Well played Holmes. Well played.
+5. If I ever get out you're all DEAD.
